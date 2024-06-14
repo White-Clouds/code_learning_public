@@ -1,6 +1,6 @@
 # Code learning
 
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/White-Clouds/code_learning/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/White-Clouds/code_learning_public/blob/main/LICENSE)
 
 ## 简介 About
 
