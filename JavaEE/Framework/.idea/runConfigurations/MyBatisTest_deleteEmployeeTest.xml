@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MyBatisTest.deleteEmployeeTest" type="JUnit" factoryName="JUnit" folderName="Test01" nameIsGenerated="true">
+    <module name="Test01" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.itheima.test.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.itheima.test" />
+    <option name="MAIN_CLASS_NAME" value="com.itheima.test.MyBatisTest" />
+    <option name="METHOD_NAME" value="deleteEmployeeTest" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

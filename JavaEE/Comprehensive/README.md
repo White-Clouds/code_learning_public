@@ -6,4 +6,4 @@
 
 ## 使用软件 Software
 
-IntelliJ IDEA
+~~Eclipse~~ IntelliJ IDEA
